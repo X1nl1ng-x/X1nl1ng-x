@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Xinling — NLP × Quant</title>
+  <desc id="description">A colorful editorial banner: text fragments in violet, teal and coral converge into a quantitative signal.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF9F1"/>
+      <stop offset="0.56" stop-color="#F8F6FC"/>
+      <stop offset="1" stop-color="#EEF6F7"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="704" y1="115" x2="905" y2="95" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8A6BC6"/>
+      <stop offset="0.5" stop-color="#637FD2"/>
+      <stop offset="1" stop-color="#399F99"/>
+    </linearGradient>
+    <linearGradient id="area" x1="815" y1="60" x2="815" y2="171" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#399F99" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#399F99" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="959" height="223" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="960" height="224" fill="url(#background)"/>
+    <circle cx="846" cy="80" r="150" fill="#E9E6FA" fill-opacity="0.32"/>
+    <path d="M735 -24C651 27 654 165 748 239" stroke="#C5BADF" stroke-opacity="0.4"/>
+    <path d="M752 -24C674 31 677 160 764 239" stroke="#C5BADF" stroke-opacity="0.22"/>
+
+    <rect x="49" y="48" width="20" height="4" rx="2" fill="#8A6BC6"/>
+    <rect x="74" y="48" width="12" height="4" rx="2" fill="#399F99"/>
+    <rect x="91" y="48" width="7" height="4" rx="2" fill="#D7866B"/>
+    <text x="46" y="127" fill="#2D2942" font-family="Georgia, 'Times New Roman', serif" font-size="67" letter-spacing="-2">Xinling<tspan fill="#D7866B">.</tspan></text>
+    <text x="51" y="164" fill="#655D7C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="3.2">NLP × QUANT</text>
+
+    <g stroke-width="1.6" stroke-linecap="round">
+      <path d="M634 73C661 73 658 112 691 112" stroke="#8A6BC6" stroke-opacity="0.42"/>
+      <path d="M657 112H691" stroke="#399F99" stroke-opacity="0.48"/>
+      <path d="M621 151C655 151 657 112 691 112" stroke="#D7866B" stroke-opacity="0.42"/>
+    </g>
+
+    <g transform="translate(521 57)">
+      <rect width="113" height="32" rx="9" fill="#EEE7FA" stroke="#DCCEF0"/>
+      <rect x="13" y="12" width="21" height="7" rx="3.5" fill="#8A6BC6" fill-opacity="0.7"/>
+      <rect x="40" y="12" width="34" height="7" rx="3.5" fill="#8A6BC6" fill-opacity="0.38"/>
+      <rect x="80" y="12" width="20" height="7" rx="3.5" fill="#8A6BC6" fill-opacity="0.22"/>
+    </g>
+    <g transform="translate(543 96)">
+      <rect width="114" height="32" rx="9" fill="#E0F0EC" stroke="#C7E2DB"/>
+      <rect x="13" y="12" width="35" height="7" rx="3.5" fill="#399F99" fill-opacity="0.65"/>
+      <rect x="54" y="12" width="17" height="7" rx="3.5" fill="#399F99" fill-opacity="0.3"/>
+      <rect x="77" y="12" width="24" height="7" rx="3.5" fill="#399F99" fill-opacity="0.48"/>
+    </g>
+    <g transform="translate(521 135)">
+      <rect width="100" height="32" rx="9" fill="#FAEDE3" stroke="#EED9C7"/>
+      <rect x="13" y="12" width="25" height="7" rx="3.5" fill="#D7866B" fill-opacity="0.6"/>
+      <rect x="44" y="12" width="42" height="7" rx="3.5" fill="#D7866B" fill-opacity="0.3"/>
+    </g>
+
+    <g stroke="#C4C8D9" stroke-width="1">
+      <path d="M723 65H909M723 159H909" stroke-opacity="0.45"/>
+      <path d="M723 112H909" stroke-opacity="0.7" stroke-dasharray="3 5"/>
+    </g>
+    <path d="M698 112H721C736 112 739 73 756 73S778 146 794 137S812 89 830 100S852 149 865 124S884 69 897 89L909 105V172H698Z" fill="url(#area)"/>
+    <path d="M698 112H721C736 112 739 73 756 73S778 146 794 137S812 89 830 100S852 149 865 124S884 69 897 89L909 105" stroke="url(#signal)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="692" cy="112" r="13" fill="#D7866B" fill-opacity="0.13"/>
+    <circle cx="692" cy="112" r="5.5" fill="#D7866B"/>
+    <circle cx="756" cy="73" r="4" fill="#8A6BC6" stroke="#F8F6FC" stroke-width="2"/>
+    <circle cx="865" cy="124" r="4" fill="#399F99" stroke="#EEF6F7" stroke-width="2"/>
+
+    <text x="554" y="193" fill="#817B91" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2">TEXT</text>
+    <text x="791" y="193" fill="#817B91" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2">SIGNAL</text>
+  </g>
+  <rect x="0.5" y="0.5" width="959" height="223" rx="18" stroke="#E7E0EC"/>
+</svg>

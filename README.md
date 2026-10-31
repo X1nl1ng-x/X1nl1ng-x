@@ -1,33 +1,23 @@
-# Hi, I'm Xinling 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Xinling — NLP &amp; Quant" src="assets/header-light.svg" width="100%">
+</picture>
 
-I'm a Master's student in Computational Linguistics at LMU Munich.
+Master's student in **Computational Linguistics** at **LMU Munich**.<br>Focused on **NLP** and **quantitative research**, with a particular interest in **factor research** and extracting **quantitative signals from unstructured text**.
 
-## About me
-- Interested in NLP, LLMs, AI Agent and Quant.
-- Working with Python, PyTorch, scikit-learn, pandas
+[Email](mailto:cardyxie@gmail.com) &nbsp;·&nbsp; [All repositories](https://github.com/X1nl1ng-x?tab=repositories)
 
-## Skills
-- Python
-- PyTorch
-- scikit-learn
-- pandas
-- Machine Learning
-- NLP
-- Transformers
-- Git / GitHub
+> **Current focus · SurgAgent**<br>Exploring self-evolving agent harnesses.
 
-## Projects
-### House Prices Prediction
-A classic machine learning project based on the Kaggle House Prices dataset.  
-Focused on data preprocessing, feature engineering, model training, and evaluation.
+### Selected projects
 
-### RAG_Studium_Assistant
-An agentic RAG system orchestrated with n8n, enabling natural-language Q&A across three LMU module handbooks (Modulhandbücher).
+| Project | Focus |
+| :--- | :--- |
+| **[Transformer from Scratch](https://github.com/X1nl1ng-x/transformer-from-scratch)**<br><sub>NLP · PyTorch</sub> | An encoder–decoder Transformer with attention, masking, positional encoding, and a toy copy-task training loop. |
+| **[RAG Studium Assistant](https://github.com/X1nl1ng-x/RAG_Studium_Assistant)**<br><sub>NLP · Agentic RAG</sub> | An agentic study planner combining handbook retrieval with deterministic degree-rule validation. |
+| **[Crypto Factor Research](https://github.com/X1nl1ng-x/crypto-xsec-factor)**<br><sub>Quant · Empirical research</sub> | Cross-sectional tests of trading-volume signals in crypto futures, including robustness checks and evaluation on a later sample. |
 
-## What I'm working on
-- Building agentic systems
-- Learning finance and statistics knowledge
-- Exploring crypto world 🚀🌕
+### Tech stack
 
-## Contact
-- Email: cardyxie@gmail.com
+`Python` `PyTorch` `Docker` `Ollama` `Qdrant` `n8n`
